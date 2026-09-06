@@ -1,14 +1,14 @@
-# 🍳 Flutter Recettes
+# Gestion de Recettes
 
 > Projet Flutter multi-écrans — App de recettes de cuisine avec navigation, recherche, formulaires et thème clair/sombre.
 
-## 🎯 Description
+## Description
 
 Application Flutter complète de gestion de recettes de cuisine. Elle démontre les widgets Flutter, la navigation avancée avec **GoRouter**, la gestion d'état avec **Provider**, le responsive design (mobile & tablette) et la séparation stricte UI/données.
 
 
 
-## 🚀 Instructions de lancement
+## Instructions de lancement
 
 ### Prérequis
 
@@ -37,7 +37,7 @@ flutter run -d ios             # iOS
 flutter run -d android         # Android
 ```
 
-## 🧪 Tests
+## ests
 
 ```bash
 flutter test
@@ -45,7 +45,7 @@ flutter test
 
 Les tests couvrent : le widget d'étoiles, le filtrage par recherche, le filtrage par catégorie, la bascule favoris et le rendu de l'écran de liste.
 
-## ✅ Critères techniques couverts
+## Critères techniques couverts
 
 Au moins 4 écrans distincts
 Navigation avec GoRouter ou Navigator 2.0 (routes nommées)
@@ -57,7 +57,7 @@ ListView,Gridview, stack
 Responsive tablet, iphone,web
 
 
-## 🛠️ Stack technique
+## Stack technique
 
 - **Flutter** avec Material 3
 - **go_router** (18.x) — navigation déclarative
